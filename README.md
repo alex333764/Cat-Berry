@@ -1,2 +1,2 @@
 # Cat-Berry
-The graduation research
+Capstone project 
